@@ -1,0 +1,103 @@
+import React from 'react'
+import MainBanner from '../components/Home/MainBanner'
+import { useTranslation } from 'react-i18next'
+import img from '../assets/images/test2.jpeg'
+import BlackParagraph from '../components/Home/BlackParagraph'
+import Cards from '../components/Home/Cards'
+import Parallax from '../components/Home/Parallax'
+import lamellenstoren from '../assets/images/lamellenstore.jpg'
+import sonnenstoren from '../assets/images/sonnenstoren.jpeg'
+import rolllanden from '../assets/images/rolllanden3.jpeg'
+import stof from '../assets/images/stof.jpeg'
+import insect from '../assets/images/insect.jpeg'
+import plisse from '../assets/images/plissee.jpeg'
+import ombrella from '../assets/images/umbrella.jpg'
+import rollstore from '../assets/images/rollstore.jpeg'
+import mhz from '../assets/images/partners/mhz.png'
+import somfy from '../assets/images/partners/somfy.png'
+import rollmat from '../assets/images/partners/rollmat.jpeg'
+import regazzi from '../assets/images/partners/regazzi.png'
+import storosoll from '../assets/images/partners/storosol.png'
+import rolf from '../assets/images/partners/rolf.png'
+import stoma from '../assets/images/partners/stoma.png'
+import meiomo from '../assets/images/partners/meimo.png'
+
+
+
+
+
+
+function Home() {
+
+
+
+  const { t } = useTranslation();
+
+
+
+  return (
+    <>
+      <MainBanner title={t('HOME.BANNER_TITLE')} description={t('HOME.BANNER_DESCRIPTION')} display="flex" fontSize='text-3xl' />
+      <img src={img} alt='empty' data-aos="fade-up" />
+      <Cards />
+      <hr className='w-3/4 m-auto my-20' />
+      <section>
+        <div className='grid gap-9 grid-cols-1 justify-items-center mb-20 mx-20 items-center'>
+          <h1 className='text-5xl font-medium text-center' data-aos='fade-right'>{t('MATERIALS.HEADER')}</h1>
+          <p className='md:px-10 text-center' data-aos='fade-up'>{t('MATERIALS.DESCRIPTION')}</p>
+        </div>
+      </section>
+
+
+      <section>
+        <div className='grid md:grid-cols-4 bg-black-paragraphs'>
+          <img className='justify-self-center' src={lamellenstoren} alt='lamellenstoren' data-aos='flip-up' data-aos-duration="1000" />
+          <BlackParagraph category={t('HOME.LAMELLENSTOREN')} title={t('HOME.LAMELLENSTOREN')} animation='fade-right' description={t('HOME.LAMELLENSTOREN_DESCRIPTION')} />
+          <img className='justify-self-center' src={sonnenstoren} alt='sonnenstoren' data-aos='flip-up' data-aos-duration="1000" />
+          <BlackParagraph category={t('HOME.SONNENSTOREN')} title={t('HOME.SONNENSTOREN')} animation='fade-right' description={t('HOME.SONNENSTOREN_DESCRIPTION')} />
+          <BlackParagraph category={t('HOME.ROLLLADEN_TITLE')} title={t('HOME.ROLLLADEN_TITLE')} animation='fade-right' description={t('HOME.ROLLLADEN_DESCRIPTION')} />
+          <img className='justify-self-center' src={rolllanden} alt='rolllanden' data-aos='flip-up' data-aos-duration="1000" />
+          <BlackParagraph category={t('HOME.SONNENSTORENSTOFFE_TITLE')} title={t('HOME.SONNENSTORENSTOFFE_TITLE')} animation='fade-right' description={t('HOME.SONNENSTORENSTOFFE_DESCRIPTION')} />
+          <img className='justify-self-center' src={stof} alt='Sonnenstorenstoffe' data-aos='flip-up' data-aos-duration="1000" />
+        </div>
+        <div className='grid md:grid-cols-4 bg-black-paragraphs mb-16'>
+          <img className='justify-self-center' src={insect} alt='insectschutz' data-aos='flip-up' data-aos-duration="1000" />
+          <BlackParagraph category={t('HOME.INSEKTENSCHUTZ_TITLE')} title={t('HOME.INSEKTENSCHUTZ_TITLE')} animation='fade-right' description={t('HOME.INSEKTENSCHUTZ_DESCRIPTION')} />
+          <img className='justify-self-center' src={plisse} alt='Stoff-Rollo und Plissee' data-aos='flip-up' data-aos-duration="1000" />
+          <BlackParagraph category={t('HOME.PLISSEN_TITLE')} title={t('HOME.PLISSEN_TITLE')} animation='fade-right' description={t('HOME.PLISSEN_DESCRIPTION')} />
+          <BlackParagraph category={t('HOME.SONNENSCHIRME_TITLE')} title={t('HOME.SONNENSCHIRME_TITLE')} animation='fade-right' description={t('HOME.SONNENSCHIRME_DESCRIPTION')} />
+          <img className='justify-self-center' src={ombrella} alt='Sonnenschirme' data-aos='flip-up' data-aos-duration="1000" />
+          <BlackParagraph category={t('HOME.ROLLLAMELLEN_TITLE')} title={t('HOME.ROLLLAMELLEN_TITLE')} animation='fade-right' description={t('HOME.ROLLLAMELLEN_DESCRIPTION')} />
+          <img className='justify-self-center' src={rollstore} alt='Rolllamellenstoren' data-aos='flip-up' data-aos-duration="1000" />
+        </div>
+      </section>
+
+
+      <section>
+        <div className='grid justify-items-center mb-20 mx-4 md:mx-20 items-center'>
+          <h1 className='text-5xl font-medium mb-14 mx-2 text-center' data-aos='fade-right'>{t('PARTNERS')}</h1>
+      <hr className='w-3/4 m-auto mb-20' />
+
+          <div className='grid md:grid-cols-3 justify-items-center'>
+            <img className='mb-10' data-aos="fade-up-right" src={mhz} alt='MHZ' />
+            <img className='mb-10' data-aos="fade-up" src={somfy}  alt='somfy'/>
+            <img  className='mb-10' data-aos="fade-up-left" src={rollmat} alt='Rollmat' />
+          </div>
+          <div className='grid md:grid-cols-3 p-10 items-center'>
+            <img className='pr-10 mb-10' data-aos="fade-up-right" src={regazzi} alt='Regazzi' />
+            <img className='px-10 mb-10' data-aos="fade-up" src={storosoll} alt='storosol'/>
+            <img className='pl-10 mb-10' data-aos="fade-up-left" src={rolf} alt='Rolf Berchtold AG' />
+          </div>
+          <div className='grid md:grid-cols-2 items-center'>
+            <img className='max-w-[300px] mb-10' data-aos="fade-up-right" src={stoma} alt='stoma'/>
+            <img className=' mb-10' data-aos="fade-up-left" src={meiomo} alt='meimo'/>
+          </div>
+        </div>
+      </section>
+      <hr className='w-3/4 m-auto my-20' />
+      <Parallax />
+    </>
+  )
+}
+
+export default Home
