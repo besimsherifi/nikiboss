@@ -33,7 +33,7 @@ function Offer() {
 
   return (
     <>
-      <section className="container flex items-center justify-center  max-w-full h-[500px] bg-fixed bg-center bg-cover " style={{ backgroundImage: `url(${require("../assets/images/offer.jpg")})` }} />
+      <section className="container flex items-center justify-center  max-w-full h-[500px] bg-center bg-cover " style={{ backgroundImage: `url(${require("../assets/images/offer.jpg")})` }} />
       <div className='flex justify-center text-center'>
         <div className='mx-12 md:mx-18 lg:mx-20 mt-10'>
           <h1 className='text-3xl md:text-5xl font-semibold mb-5'>{t('OFFER.HEADER')}</h1>
