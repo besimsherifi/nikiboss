@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Link } from 'react-router-dom';
-import logo from '../../assets/images/logo.png'
+import logo from '../../assets/images/logo.jpg'
 
 function Navbar() {
 
@@ -20,11 +20,10 @@ function Navbar() {
                 <div className='md:flex items-center justify-between bg-white py-4 md:px-10 px-7'>
                     <div className='font-bold text-2xl cursor-pointer flex items-center text-gray-800' data-aos="fade-down">
                         <span className='text-3xl  mr-4'>
-                            <img src={logo} alt='Besi Storen GmbH' className='w-[75px]'/>
+                            <img src={logo} alt='Besi Storen GmbH' className='w-[100px]'/>
                         </span>
-                        Besi Storen
                     </div>
-                    <div onClick={() => setOpen(!open)} className='text-3xl absolute right-8 top-4 cursor-pointer md:hidden'>
+                    <div onClick={() => setOpen(!open)} className='text-3xl absolute right-8 top-7 cursor-pointer md:hidden'>
                         <ion-icon name={open ? 'close' : 'menu'}></ion-icon>
                     </div>
                     <div>

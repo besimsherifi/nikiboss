@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from '../../assets/images/logo.png'
+import logo from '../../assets/images/logo.jpg'
 import { useTranslation } from 'react-i18next'
 
 function Footer() {
