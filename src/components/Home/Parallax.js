@@ -10,7 +10,7 @@ function Parallax() {
 
     return (
         <>
-            <section className="container flex items-center justify-center  max-w-full  bg-fixed bg-center bg-cover " style={{ backgroundImage: `url(${require("../../assets/images/parallax.jpg")})` }}>
+            <section className="container flex items-center justify-center  max-w-full   bg-center bg-cover " style={{ backgroundImage: `url(${require("../../assets/images/parallax.jpg")})` }}>
                 <div className="grid gap-9 md:grid-cols-1 lg:grid-cols-3 p-10 md:p-20 text-2xl text-white items-center justify-items-center	">
                     <h1 className='text-3xl md:text-4xl' data-aos="fade-right">{t('PARALLAX.HEADER')}</h1>
                     <p className='text-xl mx-4'data-aos="fade-down">{t('PARALLAX.DESCRIPTION')}</p>
