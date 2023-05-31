@@ -7,7 +7,7 @@ function Contact() {
   return (
     <>
       <Map />
-      <section>
+      <section id='test'>
         <div className='grid md:grid-cols-2  p-10'>
           <Form/>
           <div>
