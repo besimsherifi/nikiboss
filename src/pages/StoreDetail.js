@@ -24,7 +24,7 @@ useEffect(() => {
   return (
     <>
       <div ref={topContainer} className='grid lg:grid-cols-2 my-12'>
-        <img className='p-10 self-center' src={store.image} />
+        <img className='p-10 self-center' src={store.image} alt={store.title_de} />
         <div className='p-10 border-l-2'>
           <h1 className='text-2xl md:text-5xl my-5'>{title}</h1>
           <p className='text-[14px] md:text-[16px]'>{description}</p>
