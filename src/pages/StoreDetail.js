@@ -20,8 +20,8 @@ function StoreDetail() {
       <div className='grid lg:grid-cols-2 my-12'>
         <img className='p-10 self-center' src={store.image} />
         <div className='p-10 border-l-2'>
-          <h1 className='text-5xl my-5'>{title}</h1>
-          <p>{description}</p>
+          <h1 className='text-2xl md:text-5xl my-5'>{title}</h1>
+          <p className='text-[14px] md:text-[16px]'>{description}</p>
           <Link to='/offer'><button className='bg-custom-orange rounded-lg p-3 my-10 text-white md:float-right'>{t("OFFER.HEADER")}</button></Link>
         </div>
       </div>
