@@ -1,9 +1,15 @@
-import React from 'react'
+import {React, useRef, useEffect} from 'react'
 import { Link, useParams } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
 import storen from '../utils/storen'
 
 function StoreDetail() {
+  const topContainer = useRef();
+
+useEffect(() => {
+  // To make sure page starts from the top
+  topContainer.current.scrollIntoView({ block: "end", behavior: 'smooth' });
+  }, []);
   const { storeId } = useParams();
   const {t, i18n } = useTranslation()
 
@@ -17,7 +23,7 @@ function StoreDetail() {
 
   return (
     <>
-      <div className='grid lg:grid-cols-2 my-12'>
+      <div ref={topContainer} className='grid lg:grid-cols-2 my-12'>
         <img className='p-10 self-center' src={store.image} />
         <div className='p-10 border-l-2'>
           <h1 className='text-2xl md:text-5xl my-5'>{title}</h1>
