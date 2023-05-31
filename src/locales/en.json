@@ -1,0 +1,84 @@
+{
+    "NAVBAR": {
+        "HOME": "Home",
+        "SERVICES": "Services",
+        "CONTACT": "Contact",
+        "OFFERTE":"Offers"
+    },
+    "HOME": {
+        "BANNER_TITLE": "Transform your space with elegant blinds and shutters",
+        "BANNER_DESCRIPTION": "At Besi Storen we specialize in providing quality blinds and shutters to transform your living or working spaces into stylish and functional environments.",
+        "LAMELLENSTOREN": "Venetian blinds",
+        "LAMELLENSTOREN_DESCRIPTION": "Classic elegance for your window",
+        "SONNENSTOREN": "Sun blinds",
+        "SONNENSTOREN_DESCRIPTION": "Enjoy shade and comfort",
+        "ROLLLADEN_TITLE": "Roller Shutters",
+        "ROLLLADEN_DESCRIPTION": "Versatile and functional window covering solution",
+        "SONNENSTORENSTOFFE_TITLE": "Sun blind fabrics",
+        "SONNENSTORENSTOFFE_DESCRIPTION": "Add a touch of elegance and comfort to your home.",
+        "INSEKTENSCHUTZ_TITLE": "Insect Screen",
+        "INSEKTENSCHUTZ_DESCRIPTION": "Enjoy a bug-free environment with our quality insect screens",
+        "PLISSEN_TITLE": "Fabric roller blind and pleated blind",
+        "PLISSEN_DESCRIPTION": "Introducing our fabric blinds - the perfect blend of style and functionality",
+        "SONNENSCHIRME_TITLE": "Umbrellas",
+        "SONNENSCHIRME_DESCRIPTION": "Experience ultimate shade and relaxation with our parasols",
+        "ROLLLAMELLEN_TITLE": "Roller Blinds",
+        "ROLLLAMELLEN_DESCRIPTION": "Enhance your space with our versatile roller blinds",
+        "LAMELLENDACH_TITLE":"Louvered Roof",
+        "LAMELLENDACH_DESCRIPTION":"A louvered roof allows for individual control of sunlight, ventilation and rain protection",
+        "SEITENGLASS_TITLE":"Side Glass",
+        "SEITENGLASS_DESCRIPTION":"Both functional and aesthetic, they allow natural light to enter the space while offering views of the surrounding area",
+        "MEHR":"More"
+    },
+    "PARTNERS":"Our partners",
+    "CARDS": {
+        "DESCRIPTION": "Our mission is to present the best quality for your home",
+        "CARD_1_TITLE": "Advice",
+        "CARD_1_DESCRIPTION": "Support your decisions with expert advice.",
+        "CARD_2_TITLE": "Measurements",
+        "CARD_2_DESCRIPTION": "Accurate measurements for precise results.",
+        "CARD_3_TITLE": "Assembly",
+        "CARD_3_DESCRIPTION": "Efficient and professional installations for great results.",
+        "CARD_4_TITLE": "Repair",
+        "CARD_4_DESCRIPTION": "Reliable and competent repair services for your needs."
+    },
+    "MATERIALS": {
+        "HEADER": "High-quality materials",
+        "DESCRIPTION": "At Besi Storen we aim to use only the highest quality materials for our installations and repairs. We work with trusted manufacturers to source durable blinds and shutters that not only enhance the aesthetics of your space, but also provide functionality and durability for years to come."
+    },
+    "PARALLAX": {
+        "HEADER": "Let's work together",
+        "DESCRIPTION": "If you need store installation or repair and you think our company is the right choice, please contact us.",
+        "BUTTON": "Contact us"
+    },
+    "SERVICES": {
+        "HEADER": "Our Services",
+        "DESCRIPTION": "Discover our comprehensive range of services, tailored to all your needs",
+        "BERATUNG": "Advice",
+        "BERATUNG_DESCRIPTION":"At our company, we believe in empowering our customers to make informed decisions when it comes to roller blinds. Our team of experts strives to provide comprehensive advice tailored to your specific needs. Whether you want to increase your privacy, control sunlight or create a stylish outdoor space, we'll guide you through the options available and help you choose the perfect sun protection solution.",
+        "MESSUNGEN": "Measurements",
+        "MESSUNGEN_DESCRIPTION":"At Besi Storen, we take precise measurements to ensure your sun blinds fit perfectly. We visit your site, carefully assess the windows or exterior areas where the sunblinds will be installed, and take precise measurements to ensure a custom fit.",
+        "MONTAGE": "Assembly",
+        "MONTAGE_DESCRIPTION":"When installing sun blinds, our company values professionalism and precision. Our experienced installation team is well equipped to handle the entire process smoothly. Once measurements have been taken and the sunshade blinds are complete, they are carefully installed by our experienced technicians to ensure a secure and flawless fit.",
+        "REPARATUR": "Repair",
+        "REPARATUR_DESCRIPTION":"We offer fast and reliable services to ensure the longevity and optimal performance of our products. Whether it's a broken mechanism, damaged fabric or any other repair need, we aim to restore your roller blinds to full functionality."
+    },
+    "OFFER":{
+        "HEADER":"Free offer",
+        "DESCRIPTION":"Take advantage of our free offers and experience the unparalleled quality and convenience we have to offer."
+    },
+    "FORM":{
+        "HEADER":"Contact",
+        "NAME":"Name",
+        "NACHNAME":"Last Name",
+        "TELEFON":"Phone",
+        "ANGEBOT":"Offer",
+        "BETREFF":"Topic",
+        "NACHRICHT":"Message",
+        "SENDEN":"Send" 
+    },
+    "FOOTER" : {
+        "GET_IN_TOUCH":"Get In Touch",
+        "TALK_TO_US":""
+    }
+}

@@ -1,1 +1,84 @@
-{}
+{
+    "NAVBAR": {
+        "HOME": "Pagina iniziale",
+        "SERVICES": "Servizi",
+        "CONTACT": "Contatto",
+        "OFFERTE":"Offerte"
+    }, 
+    "HOME": {
+        "BANNER_TITLE": "Trasforma il tuo spazio con tende e persiane eleganti",
+        "BANNER_DESCRIPTION": "In Besi Storen siamo specializzati nella fornitura di tende e persiane di qualità per trasformare i tuoi spazi abitativi o lavorativi in ​​ambienti eleganti e funzionali.",
+        "LAMELLENSTOREN": "Veneziane",
+        "LAMELLENSTOREN_DESCRIPTION": "Eleganza classica per la tua finestra",
+        "SONNENSTOREN": "Tende da sole",
+        "SONNENSTOREN_DESCRIPTION": "Goditi l'ombra e il comfort",
+        "ROLLLADEN_TITLE": "Tapparelle",
+        "ROLLLADEN_DESCRIPTION": "Soluzione di copertura per finestre versatile e funzionale",
+        "SONNENSTORENSTOFFE_TITLE": "Tessuti per tende da sole",
+        "SONNENSTORENSTOFFE_DESCRIPTION": "Aggiungi un tocco di eleganza e comfort alla tua casa",
+        "INSEKTENSCHUTZ_TITLE": "Repellente per insetti",
+        "INSEKTENSCHUTZ_DESCRIPTION": "Goditi un ambiente privo di insetti con le nostre zanzariere di qualità",
+        "PLISSEN_TITLE": "Tenda a rullo in tessuto e tenda plissettata",
+        "PLISSEN_DESCRIPTION": "Vi presentiamo le nostre tende in tessuto: la miscela perfetta di stile e funzionalità",
+        "SONNENSCHIRME_TITLE": "Gli Ombrelli",
+        "SONNENSCHIRME_DESCRIPTION": "Sperimenta il massimo dell'ombra e del relax con i nostri ombrelloni",
+        "ROLLLAMELLEN_TITLE": "Tende a rullo",
+        "ROLLLAMELLEN_DESCRIPTION": "Migliora il tuo spazio con le nostre versatili tende a rullo",
+        "LAMELLENDACH_TITLE":"Tetto a lamelle",
+        "LAMELLENDACH_DESCRIPTION":"Un tetto a lamelle consente il controllo individuale della luce solare, della ventilazione e della protezione dalla pioggia",
+        "SEITENGLASS_TITLE":"Vetro laterale",
+        "SEITENGLASS_DESCRIPTION":"Sia funzionali che estetiche, consentono alla luce naturale di entrare nello spazio offrendo allo stesso tempo una vista sull'area circostante",
+        "MEHR":"Di più"
+    },
+    "PARTNERS":"I nostri partner",
+    "CARDS": {
+        "DESCRIPTION": "La nostra missione è presentare la migliore qualità per la tua casa",
+        "CARD_1_TITLE": "Consiglio",
+        "CARD_1_DESCRIPTION": "Sostieni le tue decisioni con la consulenza di esperti.",
+        "CARD_2_TITLE": "Misurazioni",
+        "CARD_2_DESCRIPTION": "Misurazioni accurate per risultati precisi.",
+        "CARD_3_TITLE": "Assemblaggio",
+        "CARD_3_DESCRIPTION": "Installazioni efficienti e professionali per grandi risultati.",
+        "CARD_4_TITLE": "Riparazione",
+        "CARD_4_DESCRIPTION": "Servizi di riparazione affidabili e competenti per le vostre esigenze."
+    },
+    "MATERIALS": {
+        "HEADER": "Materiali di alta qualità",
+        "DESCRIPTION": "In Besi Storen miriamo a utilizzare solo materiali di altissima qualità per le nostre installazioni e riparazioni. Collaboriamo con produttori di fiducia per fornire tende e persiane durevoli che non solo migliorano l'estetica del tuo spazio, ma forniscono anche funzionalità e durata per gli anni a venire."
+    },
+    "PARALLAX": {
+        "HEADER": "Lavoriamo insieme",
+        "DESCRIPTION": "Se hai bisogno di installazione o riparazione in negozio e ritieni che la nostra azienda sia la scelta giusta, ti preghiamo di contattarci.",
+        "BUTTON": "Contattaci"
+    },
+    "SERVICES": {
+        "HEADER": "I nostri servizi",
+        "DESCRIPTION": "Scopri la nostra gamma completa di servizi, su misura per tutte le tue esigenze",
+        "BERATUNG": "Consiglio",
+        "BERATUNG_DESCRIPTION":"Nella nostra azienda, crediamo nel consentire ai nostri clienti di prendere decisioni informate quando si tratta di tende a rullo. Il nostro team di esperti si impegna a fornire una consulenza completa su misura per le vostre esigenze specifiche. Sia che tu voglia aumentare la tua privacy, controllare la luce solare o creare uno spazio esterno elegante, ti guideremo attraverso le opzioni disponibili e ti aiuteremo a scegliere la soluzione di protezione solare perfetta.",
+        "MESSUNGEN": "Misurazioni",
+        "MESSUNGEN_DESCRIPTION":"In Besi Storen, prendiamo misure precise per assicurarci che le tue tende da sole si adattino perfettamente. Visitiamo il tuo sito, valutiamo attentamente le finestre o le aree esterne in cui verranno installate le tende da sole e prendiamo misure precise per garantire una vestibilità personalizzata.",
+        "MONTAGE": "Assemblaggio",
+        "MONTAGE_DESCRIPTION":"Quando si installano le tende da sole, la nostra azienda apprezza la professionalità e la precisione. Il nostro team di installazione esperto è ben attrezzato per gestire l'intero processo senza intoppi. Una volta prese le misure e completate le tende parasole, queste vengono installate con cura dai nostri tecnici esperti per garantire un montaggio sicuro e impeccabile.",
+        "REPARATUR": "Riparazione",
+        "REPARATUR_DESCRIPTION":"Offriamo servizi rapidi e affidabili per garantire la longevità e le prestazioni ottimali dei nostri prodotti. Che si tratti di un meccanismo rotto, di un tessuto danneggiato o di qualsiasi altra necessità di riparazione, miriamo a ripristinare la piena funzionalità delle tue tende a rullo."
+    },
+    "OFFER":{
+        "HEADER":"Offerta libera",
+        "DESCRIPTION":"Approfitta delle nostre offerte gratuite e sperimenta la qualità e la convenienza senza pari che abbiamo da offrire."
+    },
+    "FORM":{
+        "HEADER":"Contatto",
+        "NAME":"Nome di battesimo",
+        "NACHNAME":"Cognome",
+        "TELEFON":"Telefono",
+        "ANGEBOT":"Offerta",
+        "BETREFF":"Argomento",
+        "NACHRICHT":"Notizia",
+        "SENDEN":"Inviare"
+    },
+    "FOOTER" : {
+        "GET_IN_TOUCH":"Mettiti in contatto",
+        "TALK_TO_US":""
+    }
+}

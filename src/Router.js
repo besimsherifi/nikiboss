@@ -5,6 +5,7 @@ import Contact from './pages/Contact'
 import Services from './pages/Services'
 import Error from './pages/Error'
 import Offer from './pages/Offer'
+import StoreDetail from './pages/StoreDetail'
 
 function Router() {
     return (
@@ -13,6 +14,7 @@ function Router() {
             <Route path='/contact' element={<Contact />} />
             <Route path='/services' element={<Services />} />
             <Route path='/offer' element={<Offer />} />
+            <Route path='storen/:storeId' element={<StoreDetail/>} />
             <Route path="*" element={<Error />} />
         </Routes>
     )

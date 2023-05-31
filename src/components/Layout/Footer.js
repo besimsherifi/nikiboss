@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from '../../assets/images/logo.jpg'
+import logo from '../../assets/images/logo-transparent copy.png'
 import { useTranslation } from 'react-i18next'
 
 function Footer() {
@@ -10,7 +10,7 @@ function Footer() {
                 <div className="md:flex md:justify-between">
                     <div className="mb-6 md:mb-0" data-aos='fade-right'>
                         <a href="https://flowbite.com/">
-                            <img src={logo} className='w-[75px] mb-3' alt='das' />
+                            <img src={logo} className='w-[120px] mb-3' alt='das' />
                             {/* <span className="self-center text-2xl font-semibold whitespace-nowrap text-black">700 Accerelator</span> */}
                         </a>
                     </div>
@@ -19,7 +19,7 @@ function Footer() {
                             <h2 className="mb-6 text-sm  text-blue-500 uppercase ">Switzerland</h2>
                             <ul className="text-black ">
                                 <li className="mb-4">
-                                    <p>Steingasse 14, 5610 Zürich</p>
+                                    <p>Steingasse 14, 5610 Wohlen</p>
                                 </li>
                             </ul>
                         </div>

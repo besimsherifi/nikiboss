@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Link } from 'react-router-dom';
-import logo from '../../assets/images/logo.jpg'
+import logo from '../../assets/images/logo-transparent copy.png'
 
 function Navbar() {
 
@@ -41,9 +41,9 @@ function Navbar() {
                                 <Link to='/contact' onClick={()=>{setOpen(false)}}  className="block py-2 pl-3 pr-4 text-black rounded md:bg-transparent md:text-black-700 md:p-0 dark:text-black">{t('NAVBAR.CONTACT')}</Link>
                             </li>
                             <select name="language" onChange={onChange} className="ml-5">
-                                <option value="de">de</option>
-                                <option value="fr">fr</option>
-                                <option value="it">it</option>
+                                <option value="de">DE</option>
+                                <option value="it">IT</option>
+                                <option value="en">EN</option>
                             </select>
                         </ul>
                     </div>
