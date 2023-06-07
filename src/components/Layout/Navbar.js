@@ -20,7 +20,9 @@ function Navbar() {
                 <div className='md:flex items-center justify-between bg-white py-4 md:px-10 px-7'>
                     <div className='font-bold text-2xl cursor-pointer flex items-center text-gray-800' data-aos="fade-down">
                         <span className='text-3xl  mr-4'>
-                            <img src={logo} alt='Besi Storen GmbH' className='w-[100px]'/>
+                            <Link to='https://www.besi-storen.ch/'>
+                                <img src={logo} alt='Besi Storen GmbH' className='w-[100px]'/>
+                            </Link>
                         </span>
                     </div>
                     <div onClick={() => setOpen(!open)} className='text-3xl absolute right-8 top-7 cursor-pointer md:hidden'>
