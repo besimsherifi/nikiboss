@@ -10,10 +10,9 @@ function Footer() {
             <footer className='p-5 object-cover w-full bg-cover bg-center lg:p-12' style={{ backgroundImage: `url(${require("../../assets/images/footer2.jpg")})` }}>
                 <div className="md:flex md:justify-between">
                     <div className="mb-6 md:mb-0" data-aos='fade-right'>
-                        <a href="https://flowbite.com/">
+                        <Link to="https://besi-storen.ch/">
                             <img src={logo} className='w-[120px] mb-3' alt='das' />
-                            {/* <span className="self-center text-2xl font-semibold whitespace-nowrap text-black">700 Accerelator</span> */}
-                        </a>
+                        </Link>
                     </div>
                     <div className="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-3">
                         <div data-aos='fade-up'>
@@ -47,7 +46,7 @@ function Footer() {
                 </div>
                 <hr className="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8" />
                 <div className="sm:flex sm:items-center sm:justify-between">
-                    <span className="text-sm text-black sm:text-center ">©  <a>Besi Storen</a>. All Rights Reserved.
+                    <span className="text-sm text-black sm:text-center ">©  <p>Besi Storen</p>. All Rights Reserved.
                     </span>
                     <div className="flex mt-4 space-x-6 sm:justify-center sm:mt-0">
                         <p className="text-gray-500 hover:text-gray-900 dark:hover:text-white">

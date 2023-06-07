@@ -8,7 +8,7 @@ function Impressum() {
     useEffect(() => {
         topContainer.current.scrollIntoView({ block: "end", behavior: 'smooth' });
     }, []);
-    const { t, i18n } = useTranslation()
+    const { t } = useTranslation()
 
 
     return (

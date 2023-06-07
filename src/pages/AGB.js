@@ -86,7 +86,7 @@ function AGB() {
                     </div>
                 </div>
             }
-            {i18n.language != 'de' &&
+            {i18n.language !== 'de' &&
                 <div>
                      <h1 className='text-2xl md:text-3xl text-center font-semibold my-10 mx-4'>{t('DATA.HEADER')}</h1>
                     <hr className='w-3/4 m-auto my-10' />
