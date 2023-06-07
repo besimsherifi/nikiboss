@@ -6,6 +6,8 @@ import Services from './pages/Services'
 import Error from './pages/Error'
 import Offer from './pages/Offer'
 import StoreDetail from './pages/StoreDetail'
+import AGB from './pages/AGB'
+import Impressum from './pages/Impressum'
 
 function Router() {
     return (
@@ -15,6 +17,8 @@ function Router() {
             <Route path='/services' element={<Services />} />
             <Route path='/offer' element={<Offer />} />
             <Route path='storen/:storeId' element={<StoreDetail/>} />
+            <Route path='/agb' element={<AGB />} />
+            <Route path='/impressum' element={<Impressum />} />
             <Route path="*" element={<Error />} />
         </Routes>
     )

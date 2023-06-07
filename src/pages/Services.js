@@ -13,7 +13,7 @@ function Services() {
 
   return (
     <>
-      <section className="container flex items-center justify-center  max-w-full h-[500px] bg-center bg-cover " style={{ backgroundImage: `url(${require("../assets/images/services.jpg")})` }}/>
+      <section className="container flex items-center justify-center  max-w-full h-[500px] bg-center bg-cover " style={{ backgroundImage: `url(${require("../assets/images/services-min.jpg")})` }}/>
 
 
 

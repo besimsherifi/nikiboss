@@ -80,5 +80,25 @@
     "FOOTER" : {
         "GET_IN_TOUCH":"Get In Touch",
         "TALK_TO_US":""
-    }
+    },
+    "IMPRESSUM":{
+        "TITLE":"Imprint",
+        "KONTAKTADRESS":"Contact Address",
+        "PERSON":"Authorized Representatives",
+        "INHABER":"Owner",
+        "REGISTRIE":"Commercial Register Entry",
+        "RECHTSFORM":"Legal Form",
+        "FIRMANAME":"Registered company name",
+        "HANDELSREGISTER":"Commercial Register"
+    },
+    "DATA":{
+        "HEADER":"Data Protection",
+        "DESCRIPTION":"Data takes place within the framework of the legal regulations. If personal data is transmitted via the communication, order, contact or registration forms that have been set up , these will only be used for the purpose stated in each case. In particular, the data will not be passed on to third parties unless there is a legal obligation or express permission.",
+        "PERSONALDATA":"Processing of Personal Data",
+        "PERSONALDATA_DESCRIPTION":"Corresponding log files are saved each time a Besi Storen GmbH website is accessed.This storage is for internal, system-related and statisticalpurposes only. This is the connection data of the computer, the websites searched for, the date and duration of the visit, the identification data of the browser and operating system type used and the website from which the connection originates.Other personal information is not recorded. If you provide personal data, this will only be used for the technical administration of the website.",
+        "COOKIES":"Cookies",
+        "COOKIES_DESCRIPTION":"In order to be able to provide the best possible service within the framework of our Internet offer, cookies can be used. These are small text files that are stored in the visitor’s Internet browser. They serve to recognize the Internet browser, but not to identify you personally. All data is recorded anonymously and does not contain any personal data inaccordance with Art. 4 No. 1 GDPR. If you have any questions about the above notices, you can also email us at the email address below. We’re happy to answer them.",
+        "OWNER":"Person Authorized to Represent"
+    },
+    "COOKIES":"This website uses cookies. If you continue to use the website, we will assume your consent."
 }

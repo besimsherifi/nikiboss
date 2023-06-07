@@ -80,5 +80,16 @@
     "FOOTER": {
         "GET_IN_TOUCH": "In Kontakt kommen",
         "TALK_TO_US": ""
-    }
+    },
+    "IMPRESSUM":{
+        "TITLE":"Impressum",
+        "KONTAKTADRESS":"Kontaktadresse",
+        "PERSON":"Vertretungsberechtigte Person",
+        "INHABER":"Inhaber",
+        "REGISTRIE":"Handelsregistereintrag",
+        "RECHTSFORM":"Rechtsform",
+        "FIRMANAME":"Eingetragener Firmenname",
+        "HANDELSREGISTER":"Handelsregister"
+    },
+    "COOKIES":"Diese Website benutzt Cookies. Wenn du die Website weiter nutzt, gehen wir von deinem Einverständnis aus."
 }

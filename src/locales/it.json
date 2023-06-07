@@ -3,8 +3,8 @@
         "HOME": "Pagina iniziale",
         "SERVICES": "Servizi",
         "CONTACT": "Contatto",
-        "OFFERTE":"Offerte"
-    }, 
+        "OFFERTE": "Offerte"
+    },
     "HOME": {
         "BANNER_TITLE": "Trasforma il tuo spazio con tende e persiane eleganti",
         "BANNER_DESCRIPTION": "In Besi Storen siamo specializzati nella fornitura di tende e persiane di qualità per trasformare i tuoi spazi abitativi o lavorativi in ​​ambienti eleganti e funzionali.",
@@ -24,13 +24,13 @@
         "SONNENSCHIRME_DESCRIPTION": "Sperimenta il massimo dell'ombra e del relax con i nostri ombrelloni",
         "ROLLLAMELLEN_TITLE": "Tende a rullo",
         "ROLLLAMELLEN_DESCRIPTION": "Migliora il tuo spazio con le nostre versatili tende a rullo",
-        "LAMELLENDACH_TITLE":"Tetto a lamelle",
-        "LAMELLENDACH_DESCRIPTION":"Un tetto a lamelle consente il controllo individuale della luce solare, della ventilazione e della protezione dalla pioggia",
-        "SEITENGLASS_TITLE":"Vetro laterale",
-        "SEITENGLASS_DESCRIPTION":"Sia funzionali che estetiche, consentono alla luce naturale di entrare nello spazio offrendo allo stesso tempo una vista sull'area circostante",
-        "MEHR":"Di più"
+        "LAMELLENDACH_TITLE": "Tetto a lamelle",
+        "LAMELLENDACH_DESCRIPTION": "Un tetto a lamelle consente il controllo individuale della luce solare, della ventilazione e della protezione dalla pioggia",
+        "SEITENGLASS_TITLE": "Vetro laterale",
+        "SEITENGLASS_DESCRIPTION": "Sia funzionali che estetiche, consentono alla luce naturale di entrare nello spazio offrendo allo stesso tempo una vista sull'area circostante",
+        "MEHR": "Di più"
     },
-    "PARTNERS":"I nostri partner",
+    "PARTNERS": "I nostri partner",
     "CARDS": {
         "DESCRIPTION": "La nostra missione è presentare la migliore qualità per la tua casa",
         "CARD_1_TITLE": "Consiglio",
@@ -55,30 +55,50 @@
         "HEADER": "I nostri servizi",
         "DESCRIPTION": "Scopri la nostra gamma completa di servizi, su misura per tutte le tue esigenze",
         "BERATUNG": "Consiglio",
-        "BERATUNG_DESCRIPTION":"Nella nostra azienda, crediamo nel consentire ai nostri clienti di prendere decisioni informate quando si tratta di tende a rullo. Il nostro team di esperti si impegna a fornire una consulenza completa su misura per le vostre esigenze specifiche. Sia che tu voglia aumentare la tua privacy, controllare la luce solare o creare uno spazio esterno elegante, ti guideremo attraverso le opzioni disponibili e ti aiuteremo a scegliere la soluzione di protezione solare perfetta.",
+        "BERATUNG_DESCRIPTION": "Nella nostra azienda, crediamo nel consentire ai nostri clienti di prendere decisioni informate quando si tratta di tende a rullo. Il nostro team di esperti si impegna a fornire una consulenza completa su misura per le vostre esigenze specifiche. Sia che tu voglia aumentare la tua privacy, controllare la luce solare o creare uno spazio esterno elegante, ti guideremo attraverso le opzioni disponibili e ti aiuteremo a scegliere la soluzione di protezione solare perfetta.",
         "MESSUNGEN": "Misurazioni",
-        "MESSUNGEN_DESCRIPTION":"In Besi Storen, prendiamo misure precise per assicurarci che le tue tende da sole si adattino perfettamente. Visitiamo il tuo sito, valutiamo attentamente le finestre o le aree esterne in cui verranno installate le tende da sole e prendiamo misure precise per garantire una vestibilità personalizzata.",
+        "MESSUNGEN_DESCRIPTION": "In Besi Storen, prendiamo misure precise per assicurarci che le tue tende da sole si adattino perfettamente. Visitiamo il tuo sito, valutiamo attentamente le finestre o le aree esterne in cui verranno installate le tende da sole e prendiamo misure precise per garantire una vestibilità personalizzata.",
         "MONTAGE": "Assemblaggio",
-        "MONTAGE_DESCRIPTION":"Quando si installano le tende da sole, la nostra azienda apprezza la professionalità e la precisione. Il nostro team di installazione esperto è ben attrezzato per gestire l'intero processo senza intoppi. Una volta prese le misure e completate le tende parasole, queste vengono installate con cura dai nostri tecnici esperti per garantire un montaggio sicuro e impeccabile.",
+        "MONTAGE_DESCRIPTION": "Quando si installano le tende da sole, la nostra azienda apprezza la professionalità e la precisione. Il nostro team di installazione esperto è ben attrezzato per gestire l'intero processo senza intoppi. Una volta prese le misure e completate le tende parasole, queste vengono installate con cura dai nostri tecnici esperti per garantire un montaggio sicuro e impeccabile.",
         "REPARATUR": "Riparazione",
-        "REPARATUR_DESCRIPTION":"Offriamo servizi rapidi e affidabili per garantire la longevità e le prestazioni ottimali dei nostri prodotti. Che si tratti di un meccanismo rotto, di un tessuto danneggiato o di qualsiasi altra necessità di riparazione, miriamo a ripristinare la piena funzionalità delle tue tende a rullo."
+        "REPARATUR_DESCRIPTION": "Offriamo servizi rapidi e affidabili per garantire la longevità e le prestazioni ottimali dei nostri prodotti. Che si tratti di un meccanismo rotto, di un tessuto danneggiato o di qualsiasi altra necessità di riparazione, miriamo a ripristinare la piena funzionalità delle tue tende a rullo."
     },
-    "OFFER":{
-        "HEADER":"Offerta libera",
-        "DESCRIPTION":"Approfitta delle nostre offerte gratuite e sperimenta la qualità e la convenienza senza pari che abbiamo da offrire."
+    "OFFER": {
+        "HEADER": "Offerta libera",
+        "DESCRIPTION": "Approfitta delle nostre offerte gratuite e sperimenta la qualità e la convenienza senza pari che abbiamo da offrire."
     },
-    "FORM":{
-        "HEADER":"Contatto",
-        "NAME":"Nome di battesimo",
-        "NACHNAME":"Cognome",
-        "TELEFON":"Telefono",
-        "ANGEBOT":"Offerta",
-        "BETREFF":"Argomento",
-        "NACHRICHT":"Notizia",
-        "SENDEN":"Inviare"
+    "FORM": {
+        "HEADER": "Contatto",
+        "NAME": "Nome di battesimo",
+        "NACHNAME": "Cognome",
+        "TELEFON": "Telefono",
+        "ANGEBOT": "Offerta",
+        "BETREFF": "Argomento",
+        "NACHRICHT": "Notizia",
+        "SENDEN": "Inviare"
     },
-    "FOOTER" : {
-        "GET_IN_TOUCH":"Mettiti in contatto",
-        "TALK_TO_US":""
-    }
+    "FOOTER": {
+        "GET_IN_TOUCH": "Mettiti in contatto",
+        "TALK_TO_US": ""
+    },
+    "IMPRESSUM": {
+        "TITLE": "Impronta",
+        "KONTAKTADRESS": "Indirizzo di Contatto",
+        "PERSON": "Rappresentanti autorizzati",
+        "INHABER": "Proprietario",
+        "REGISTRIE": "Iscrizione al registro di commercio",
+        "RECHTSFORM": "Forma Giuridica",
+        "FIRMANAME": "Nome della società registrata",
+        "HANDELSREGISTER": "Registro Commerciale"
+    },
+    "DATA": {
+        "HEADER": "Protezione dati",
+        "DESCRIPTION": "I dati avvengono nell'ambito delle disposizioni di legge. Se i dati personali vengono trasmessi tramite i moduli di comunicazione, ordine, contatto o registrazione che sono stati impostati, questi saranno utilizzati solo per lo scopo dichiarato in ogni caso. In particolare, i dati non saranno ceduti a terzi a meno che non vi sia un obbligo legale o un'espressa autorizzazione.",
+        "PERSONALDATA": "Trattamento dei Dati Personali",
+        "PERSONALDATA_DESCRIPTION": "I file di registro corrispondenti vengono salvati ogni volta che si accede a un sito Web di Besi Storen GmbH. Questa memorizzazione è solo per scopi interni, relativi al sistema e statistici. Si tratta dei dati di connessione del computer, dei siti web cercati, della data e della durata della visita, dei dati identificativi del browser e del tipo di sistema operativo utilizzato e del sito web da cui proviene il collegamento. Non vengono registrati altri dati personali. Se fornisci dati personali, questi saranno utilizzati solo per l'amministrazione tecnica del sito web.",
+        "COOKIES": "Cookies",
+        "COOKIES_DESCRIPTION": "Per poter fornire il miglior servizio possibile nell'ambito della nostra offerta Internet, possono essere utilizzati i cookie. Si tratta di piccoli file di testo che vengono memorizzati nel browser Internet del visitatore. Servono a riconoscere il browser Internet, ma non a identificarti personalmente. Tutti i dati sono registrati in forma anonima e non contengono dati personali ai sensi dell'art. 4 n. 1 GDPR. In caso di domande sugli avvisi di cui sopra, è anche possibile inviare un'e-mail all'indirizzo e-mail riportato di seguito. Siamo felici di rispondere.",
+        "OWNER": "Persona autorizzata a rappresentare"
+    },
+    "COOKIES":"Questo sito web utilizza i cookie. Se continui a utilizzare il sito web, assumeremo il tuo consenso."
 }

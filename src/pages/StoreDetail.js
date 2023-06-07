@@ -7,7 +7,6 @@ function StoreDetail() {
   const topContainer = useRef();
 
 useEffect(() => {
-  // To make sure page starts from the top
   topContainer.current.scrollIntoView({ block: "end", behavior: 'smooth' });
   }, []);
   const { storeId } = useParams();

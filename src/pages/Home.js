@@ -24,6 +24,8 @@ import rolf from '../assets/images/partners/rolf.png'
 import stoma from '../assets/images/partners/stoma.png'
 import meiomo from '../assets/images/partners/meimo.png'
 import HoverImage from '../components/Home/HoverImage'
+import CookieConsent from "react-cookie-consent";
+
 
 
 
@@ -40,6 +42,8 @@ function Home() {
 
   return (
     <>
+    <CookieConsent buttonText="OK" buttonStyle={{ backgroundColor: "#229bce", fontSize: "13px" }}>{t('COOKIES')}</CookieConsent>
+
       <MainBanner title={t('HOME.BANNER_TITLE')} description={t('HOME.BANNER_DESCRIPTION')} display="flex" fontSize='text-3xl' />
       <img src={img} alt='empty' data-aos="fade-up" />
       <Cards />
