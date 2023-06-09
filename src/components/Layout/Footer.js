@@ -46,7 +46,7 @@ function Footer() {
                 </div>
                 <hr className="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8" />
                 <div className="sm:flex sm:items-center sm:justify-between">
-                    <span className="text-sm text-black sm:text-center ">©  <p>Besi Storen</p>. All Rights Reserved.
+                    <span className="text-sm text-black sm:text-center ">© Besi Storen. <br/>All Rights Reserved.
                     </span>
                     <div className="flex mt-4 space-x-6 sm:justify-center sm:mt-0">
                         <p className="text-gray-500 hover:text-gray-900 dark:hover:text-white">

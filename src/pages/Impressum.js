@@ -1,5 +1,6 @@
 import { React, useEffect, useRef } from 'react'
 import { useTranslation } from 'react-i18next'
+import { Helmet } from 'react-helmet-async';
 
 
 function Impressum() {
@@ -12,6 +13,13 @@ function Impressum() {
 
 
     return (
+        <>
+        <Helmet>
+                <title>Impressum</title>
+                <meta name='description' content='Impressum' />
+                <link rel='canonical' href='/impressum' />
+                <meta name="keywords" content="Besi Storen, besi storen wohlen, storen-wohlen,storen-dienstleistungen, dienstleistungen, storen wohlen, storen beratung, storen messungen, storen montage, storen reparatur, lamellenstoren, sonnenstoren, rollladen,sonnenstorenstoffe, insektenschutz, stoff-rollo und plissee, rolllamellenstoren, seitenglass,lamellendach" />
+            </Helmet>
         <div ref={topContainer}>
             <h1 className='text-3xl text-center font-semibold my-10'>{t('IMPRESSUM.TITLE')}</h1>
             <hr className='w-3/4 m-auto my-10' />
@@ -34,6 +42,7 @@ function Impressum() {
                 </div>
             </div>
         </div>
+        </>
     )
 }
 

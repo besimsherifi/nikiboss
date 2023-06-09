@@ -1,5 +1,6 @@
 import { React, useRef, useEffect } from 'react'
 import { useTranslation } from 'react-i18next'
+import { Helmet } from 'react-helmet-async';
 
 
 function AGB() {
@@ -14,6 +15,12 @@ function AGB() {
 
     return (
         <>
+            <Helmet>
+                <title>AGB</title>
+                <meta name='description' content='Allgemeine Geschäftsbedingungen der Besi Storen GmbH' />
+                <link rel='canonical' href='/agb' />
+                <meta name="keywords" content="Besi Storen, besi storen wohlen, storen-wohlen,storen-dienstleistungen, dienstleistungen, storen wohlen, storen beratung, storen messungen, storen montage, storen reparatur, lamellenstoren, sonnenstoren, rollladen,sonnenstorenstoffe, insektenschutz, stoff-rollo und plissee, rolllamellenstoren, seitenglass,lamellendach" />
+            </Helmet>
             {i18n.language === 'de' &&
                 <div ref={topContainer}>
                     <h1 className='text-2xl md:text-3xl text-center font-semibold my-10 mx-4'>Allgemeine Geschäftsbedingungen der Besi Storen GmbH</h1>
@@ -88,24 +95,24 @@ function AGB() {
             }
             {i18n.language !== 'de' &&
                 <div>
-                     <h1 className='text-2xl md:text-3xl text-center font-semibold my-10 mx-4'>{t('DATA.HEADER')}</h1>
+                    <h1 className='text-2xl md:text-3xl text-center font-semibold my-10 mx-4'>{t('DATA.HEADER')}</h1>
                     <hr className='w-3/4 m-auto my-10' />
                     <div className='mx-10 md:mx-60'>
-                    <p>{t('DATA.DESCRIPTION')}</p>
-                    <div>
-                        <h3 className='text-xl font-bold my-5'>{t('DATA.PERSONALDATA')}</h3>
-                        <p>{t('DATA.PERSONALDATA_DESCRIPTION')}</p>
+                        <p>{t('DATA.DESCRIPTION')}</p>
+                        <div>
+                            <h3 className='text-xl font-bold my-5'>{t('DATA.PERSONALDATA')}</h3>
+                            <p>{t('DATA.PERSONALDATA_DESCRIPTION')}</p>
+                        </div>
+                        <div>
+                            <h3 className='text-xl font-bold my-5'>{t('DATA.COOKIES')}</h3>
+                            <p>{t('DATA.COOKIES_DESCRIPTION')}</p>
+                        </div>
+                        <div className='mb-40'>
+                            <h3 className='text-xl font-bold my-5'>{t('DATA.OWNER')}</h3>
+                            <p>B. Huruglica, Owner</p>
+                        </div>
                     </div>
-                    <div>
-                        <h3 className='text-xl font-bold my-5'>{t('DATA.COOKIES')}</h3>
-                        <p>{t('DATA.COOKIES_DESCRIPTION')}</p>
-                    </div>
-                    <div className='mb-40'>
-                        <h3 className='text-xl font-bold my-5'>{t('DATA.OWNER')}</h3>
-                        <p>B. Huruglica, Owner</p>
-                    </div>
-                    </div>
-                    
+
                 </div>}
         </>
     )

@@ -25,6 +25,7 @@ import stoma from '../assets/images/partners/stoma.png'
 import meiomo from '../assets/images/partners/meimo.png'
 import HoverImage from '../components/Home/HoverImage'
 import CookieConsent from "react-cookie-consent";
+import { Helmet } from 'react-helmet-async'
 
 
 
@@ -42,8 +43,13 @@ function Home() {
 
   return (
     <>
+    <Helmet>
+      <title>Besi Storen</title>
+      <meta name='description' content='Kompetente Beratung, präzise Messungen, reibungslose Installation und zuverlässige Reparaturen. Entdecken Sie mit Besi Storen die perfekten Jalousien und Rollläden.'/>
+      <link rel='canonical' href='/'/>
+      <meta name="keywords" content="Besi Storen, besi storen wohlen, storen-wohlen, storen wohlen, storen beratung, storen messungen, storen montage, storen reparatur, lamellenstoren, sonnenstoren, rollladen,sonnenstorenstoffe, insektenschutz, stoff-rollo und plissee, rolllamellenstoren, seitenglass,lamellendach" />
+    </Helmet>
     <CookieConsent buttonText="OK" buttonStyle={{ backgroundColor: "#229bce", fontSize: "13px" }}>{t('COOKIES')}</CookieConsent>
-
       <MainBanner title={t('HOME.BANNER_TITLE')} description={t('HOME.BANNER_DESCRIPTION')} display="flex" fontSize='text-3xl' />
       <img src={img} alt='empty' data-aos="fade-up" />
       <Cards />

@@ -1,16 +1,17 @@
-import {React, useRef, useEffect} from 'react'
+import { React, useRef, useEffect } from 'react'
 import { Link, useParams } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
 import storen from '../utils/storen'
+import { Helmet } from 'react-helmet-async'
 
 function StoreDetail() {
   const topContainer = useRef();
 
-useEffect(() => {
-  topContainer.current.scrollIntoView({ block: "end", behavior: 'smooth' });
+  useEffect(() => {
+    topContainer.current.scrollIntoView({ block: "end", behavior: 'smooth' });
   }, []);
   const { storeId } = useParams();
-  const {t, i18n } = useTranslation()
+  const { t, i18n } = useTranslation()
 
   const store = storen.find(item => item.id === storeId);
   const description = i18n.language === 'de' ? store.description_de : i18n.language === 'it' ? store.description_it : store.description_en
@@ -22,6 +23,12 @@ useEffect(() => {
 
   return (
     <>
+      <Helmet>
+        <title>{title}</title>
+        <meta name='description' content={store.description_de} />
+        <link rel='canonical' href={title} />
+        <meta name="keywords" content="Besi Storen, besi storen wohlen, storen-wohlen,storen-dienstleistungen, dienstleistungen, storen wohlen, storen beratung, storen messungen, storen montage, storen reparatur, lamellenstoren, sonnenstoren, rollladen,sonnenstorenstoffe, insektenschutz, stoff-rollo und plissee, rolllamellenstoren, seitenglass,lamellendach" />
+      </Helmet>
       <div ref={topContainer} className='grid lg:grid-cols-2 my-12'>
         <img className='p-10 self-center' src={store.image} alt={store.title_de} />
         <div className='p-10 border-l-2'>
