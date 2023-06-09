@@ -34,10 +34,10 @@ function Navbar() {
                                 <Link to='/'  onClick={()=>{setOpen(false)}} className="block py-2 pl-3 pr-4 text-black rounded md:bg-transparent md:text-black-700 md:p-0 dark:text-black">{t('NAVBAR.HOME')}</Link>
                             </li>
                             <li className='ml-3'>
-                                <Link to='/services' onClick={()=>{setOpen(false)}} className="block py-2 pl-3 pr-4 text-black rounded md:bg-transparent md:text-black-700 md:p-0 dark:text-black">{t('NAVBAR.SERVICES')}</Link>
+                                <Link to='/dienstleistungen' onClick={()=>{setOpen(false)}} className="block py-2 pl-3 pr-4 text-black rounded md:bg-transparent md:text-black-700 md:p-0 dark:text-black">{t('NAVBAR.SERVICES')}</Link>
                             </li>
                             <li className='ml-3'>
-                                <Link to='/offer' onClick={()=>{setOpen(false)}}  className="block py-2 pl-3 pr-4 text-black rounded md:bg-transparent md:text-black-700 md:p-0 dark:text-black">{t('NAVBAR.OFFERTE')}</Link>
+                                <Link to='/offerte' onClick={()=>{setOpen(false)}}  className="block py-2 pl-3 pr-4 text-black rounded md:bg-transparent md:text-black-700 md:p-0 dark:text-black">{t('NAVBAR.OFFERTE')}</Link>
                             </li>
                             <li className='ml-3'>
                                 <Link to='/contact' onClick={()=>{setOpen(false)}}  className="block py-2 pl-3 pr-4 text-black rounded md:bg-transparent md:text-black-700 md:p-0 dark:text-black">{t('NAVBAR.CONTACT')}</Link>

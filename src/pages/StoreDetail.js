@@ -34,7 +34,7 @@ function StoreDetail() {
         <div className='p-10 border-l-2'>
           <h1 className='text-2xl md:text-5xl my-5'>{title}</h1>
           <p className='text-[14px] md:text-[16px]'>{description}</p>
-          <Link to='/offer'><button className='bg-custom-orange rounded-lg p-3 my-10 text-white md:float-right'>{t("OFFER.HEADER")}</button></Link>
+          <Link to='/offerte'><button className='bg-custom-orange rounded-lg p-3 my-10 text-white md:float-right'>{t("OFFER.HEADER")}</button></Link>
         </div>
       </div>
     </>

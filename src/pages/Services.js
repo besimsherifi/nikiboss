@@ -17,7 +17,7 @@ function Services() {
     <Helmet>
       <title>Dienstleistungen</title>
       <meta name='description' content='Entdecken Sie unser umfassendes Leistungsspektrum rund um Jalousien und Rollläden, bei dem wir über die bloße Bereitstellung von Produkten hinausgehen.'/>
-      <link rel='canonical' href='/services'/>
+      <link rel='canonical' href='/dienstleistungen'/>
       <meta name="keywords" content="Besi Storen, besi storen wohlen, storen-wohlen,storen-dienstleistungen, dienstleistungen, storen wohlen, storen beratung, storen messungen, storen montage, storen reparatur, lamellenstoren, sonnenstoren, rollladen,sonnenstorenstoffe, insektenschutz, stoff-rollo und plissee, rolllamellenstoren, seitenglass,lamellendach" />
     </Helmet>
       <section className="container flex items-center justify-center  max-w-full h-[500px] bg-center bg-cover " style={{ backgroundImage: `url(${require("../assets/images/services-min.jpg")})` }}/>
