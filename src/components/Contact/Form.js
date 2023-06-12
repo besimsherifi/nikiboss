@@ -5,13 +5,14 @@ import { useTranslation } from 'react-i18next'
 
 
 function Form() {
-    
+
     const { t } = useTranslation();
     const [formData, setFormData] = useState({
         name: '',
         lastname: '',
         email: '',
-        subject: ''
+        subject: '',
+        message: ''
     });
 
     function onChangeHandler(event) {
@@ -21,8 +22,6 @@ function Form() {
             [event.target.name]: event.target.value
         }));
     }
-
-
     return (
         <>
             <div className='mr-10'>
@@ -43,10 +42,10 @@ function Form() {
                     </div>
                 </div>
                 <label htmlFor='textarea' className="block mb-2 text-md font-light text-gray-900 ">{t('FORM.NACHRICHT')}</label>
-                <textarea id="message" rows="4" data-aos='fade-up' className="block p-2.5 w-full text-sm outline-none text-gray-900 bg-[#fafafa]  border border-[#fafafa] mb-5" placeholder={t('FORM.NACHRICHT')}></textarea>
-                <Button type={'button'} title={t('FORM.SENDEN')} clickHandler={()=>{console.log(formData);}}/>
-
-
+                <textarea id="message" rows="4" data-aos='fade-up' className="block p-2.5 w-full text-sm outline-none text-gray-900 bg-[#fafafa]  border border-[#fafafa] mb-5" placeholder={t('FORM.NACHRICHT')} name='message' onChange={onChangeHandler}></textarea>
+                <Button type={'button'} title={t('FORM.SENDEN')} clickHandler={() => {
+                    window.open(`mailto:info@besi-storen.ch?subject=${formData.subject}&body=${formData.message}    von ${formData.name} ${formData.lastname}`)
+                }} />
             </div>
         </>
     )
