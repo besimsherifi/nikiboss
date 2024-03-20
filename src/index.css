@@ -28,10 +28,15 @@ code {
   transition: height 500ms;
 }
 
-.webkit-box{
+.webkit-box {
   display: -webkit-box;
 }
 
-.VIpgJd-ZVi9od-l4eHX-hSRGPd{
+.VIpgJd-ZVi9od-l4eHX-hSRGPd {
   display: none;
+}
+
+
+body[data-aos-easing="ease"] [data-aos] {
+  width: 100%;
 }

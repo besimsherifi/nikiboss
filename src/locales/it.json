@@ -1,21 +1,21 @@
 {
     "NAVBAR": {
-        "HOME": "Pagina iniziale",
-        "SERVICES": "Servizi",
-        "CONTACT": "Contatto",
+        "HOME": "Почетна",
+        "SERVICES": "Услуги",
+        "CONTACT": "Контакт",
         "OFFERTE": "Offerte"
     },
     "HOME": {
-        "BANNER_TITLE": "Trasforma il tuo spazio con tende e persiane eleganti",
-        "BANNER_DESCRIPTION": "In Besi Storen siamo specializzati nella fornitura di tende e persiane di qualità per trasformare i tuoi spazi abitativi o lavorativi in ​​ambienti eleganti e funzionali.",
-        "LAMELLENSTOREN": "Veneziane",
-        "LAMELLENSTOREN_DESCRIPTION": "Eleganza classica per la tua finestra",
-        "SONNENSTOREN": "Tende da sole",
-        "SONNENSTOREN_DESCRIPTION": "Goditi l'ombra e il comfort",
-        "ROLLLADEN_TITLE": "Tapparelle",
-        "ROLLLADEN_DESCRIPTION": "Soluzione di copertura per finestre versatile e funzionale",
-        "SONNENSTORENSTOFFE_TITLE": "Tessuti per tende da sole",
-        "SONNENSTORENSTOFFE_DESCRIPTION": "Aggiungi un tocco di eleganza e comfort alla tua casa",
+        "BANNER_TITLE": "Кафе, колачи и сладолед, вашата едношалтерска продавница за задоволство!",
+        "BANNER_DESCRIPTION": "Специјализирани за врвно кафе, неодоливи слатки и занаетчиски сладолед, ние сме ваша дестинација за издигнување на секојдневните моменти во нешто необично.",
+        "LAMELLENSTOREN": "Кафе",
+        "LAMELLENSTOREN_DESCRIPTION": "Сварено до совршенство",
+        "SONNENSTOREN": "Сладолед",
+        "SONNENSTOREN_DESCRIPTION": "Свежа сорта во секое време",
+        "ROLLLADEN_TITLE": "Слатки",
+        "ROLLLADEN_DESCRIPTION": "Препуштете се на елегантни конфекции",
+        "SONNENSTORENSTOFFE_TITLE": "Пијалоци",
+        "SONNENSTORENSTOFFE_DESCRIPTION": "Напијте се и уживајте во квалитетно освежување",
         "INSEKTENSCHUTZ_TITLE": "Repellente per insetti",
         "INSEKTENSCHUTZ_DESCRIPTION": "Goditi un ambiente privo di insetti con le nostre zanzariere di qualità",
         "PLISSEN_TITLE": "Tenda a rullo in tessuto e tenda plissettata",
@@ -30,21 +30,21 @@
         "SEITENGLASS_DESCRIPTION": "Sia funzionali che estetiche, consentono alla luce naturale di entrare nello spazio offrendo allo stesso tempo una vista sull'area circostante",
         "MEHR": "Di più"
     },
-    "PARTNERS": "I nostri partner",
+    "PARTNERS": "Нашите партнери",
     "CARDS": {
-        "DESCRIPTION": "La nostra missione è presentare la migliore qualità per la tua casa",
-        "CARD_1_TITLE": "Consiglio",
-        "CARD_1_DESCRIPTION": "Sostieni le tue decisioni con la consulenza di esperti.",
-        "CARD_2_TITLE": "Misurazioni",
-        "CARD_2_DESCRIPTION": "Misurazioni accurate per risultati precisi.",
-        "CARD_3_TITLE": "Assemblaggio",
-        "CARD_3_DESCRIPTION": "Installazioni efficienti e professionali per grandi risultati.",
-        "CARD_4_TITLE": "Riparazione",
-        "CARD_4_DESCRIPTION": "Servizi di riparazione affidabili e competenti per le vostre esigenze."
+        "DESCRIPTION": "Нашата мисија е да ви го претставиме најдобриот квалитет",
+        "CARD_1_TITLE": "Атмосфера",
+        "CARD_1_DESCRIPTION": "Нашето кафуле нуди топла и привлечна атмосфера, што го прави совршено место за релаксација и релаксација со вашето омилено пиво.",
+        "CARD_2_TITLE": "Квалитет",
+        "CARD_2_DESCRIPTION": "Се гордееме што ги користиме само најдобрите состојки за да создадеме вкусно кафе и јадења што ќе ви се допаднат.",
+        "CARD_3_TITLE": "Разновидност",
+        "CARD_3_DESCRIPTION": "Од богати еспресо пијалоци до декадентни колачи и освежителен сладолед, имаме нешто да ја задоволиме секоја желба.",
+        "CARD_4_TITLE": "Заедница",
+        "CARD_4_DESCRIPTION": "Во нашата продавница, секогаш ќе бидете пречекани со насмевка и топло добредојде, создавајќи чувство на припадност за сите што ќе го посетат."
     },
     "MATERIALS": {
-        "HEADER": "Materiali di alta qualità",
-        "DESCRIPTION": "In Besi Storen miriamo a utilizzare solo materiali di altissima qualità per le nostre installazioni e riparazioni. Collaboriamo con produttori di fiducia per fornire tende e persiane durevoli che non solo migliorano l'estetica del tuo spazio, ma forniscono anche funzionalità e durata per gli anni a venire."
+        "HEADER": "Искусете ја суштината на природата во секоја голтка во нашиот кафезен рај",
+        "DESCRIPTION": "На нашето кафе, се гордееме што ги набавуваме најдобрите домашни, природни состојки за изработка на секоја шолја кафе. Од рачно набран грав до млеко и засладувачи од локално потекло, секој елемент е внимателно избран за да се обезбеди неспоредлива свежина и квалитет. Препуштете се на богатите вкусови и здравата добрина на нашите занаетчиски пијалоци и вкусете ја разликата што доаѓа од посветеноста кон користење на најдоброто што природата може да го понуди."
     },
     "PARALLAX": {
         "HEADER": "Lavoriamo insieme",
@@ -52,16 +52,16 @@
         "BUTTON": "Contattaci"
     },
     "SERVICES": {
-        "HEADER": "I nostri servizi",
-        "DESCRIPTION": "Scopri la nostra gamma completa di servizi, su misura per tutte le tue esigenze",
-        "BERATUNG": "Consiglio",
-        "BERATUNG_DESCRIPTION": "Nella nostra azienda, crediamo nel consentire ai nostri clienti di prendere decisioni informate quando si tratta di tende a rullo. Il nostro team di esperti si impegna a fornire una consulenza completa su misura per le vostre esigenze specifiche. Sia che tu voglia aumentare la tua privacy, controllare la luce solare o creare uno spazio esterno elegante, ti guideremo attraverso le opzioni disponibili e ti aiuteremo a scegliere la soluzione di protezione solare perfetta.",
-        "MESSUNGEN": "Misurazioni",
-        "MESSUNGEN_DESCRIPTION": "In Besi Storen, prendiamo misure precise per assicurarci che le tue tende da sole si adattino perfettamente. Visitiamo il tuo sito, valutiamo attentamente le finestre o le aree esterne in cui verranno installate le tende da sole e prendiamo misure precise per garantire una vestibilità personalizzata.",
-        "MONTAGE": "Assemblaggio",
-        "MONTAGE_DESCRIPTION": "Quando si installano le tende da sole, la nostra azienda apprezza la professionalità e la precisione. Il nostro team di installazione esperto è ben attrezzato per gestire l'intero processo senza intoppi. Una volta prese le misure e completate le tende parasole, queste vengono installate con cura dai nostri tecnici esperti per garantire un montaggio sicuro e impeccabile.",
-        "REPARATUR": "Riparazione",
-        "REPARATUR_DESCRIPTION": "Offriamo servizi rapidi e affidabili per garantire la longevità e le prestazioni ottimali dei nostri prodotti. Che si tratti di un meccanismo rotto, di un tessuto danneggiato o di qualsiasi altra necessità di riparazione, miriamo a ripristinare la piena funzionalità delle tue tende a rullo."
+        "HEADER": "Нашите услуги",
+        "DESCRIPTION": "Добредојдовте во Ники Бос, каде традицијата се среќава со вкусот во секоја чаша и топка. Со повеќе од 30 години посветена услуга, ги воодушевуваме нашите клиенти со нашето свежо сварено кафе, кремаст занаетчиски сладолед, вкусни слатки и освежителни пијалоци. Од нашите скромни почетоци до денес, ние продолжуваме да ја одржуваме нашата посветеност на квалитетот и задоволството на клиентите. Придружете ни се и искусете ги безвременските вкусови и топлото гостопримство кои не направија негуван дел од заедницата повеќе од три децении.",
+        "BERATUNG": "Kафе",
+        "BERATUNG_DESCRIPTION": "Ставете се во патување со вкус во Niki Boss. Со гордост набавувајќи се од најдобрите дистрибутери на кафе во областа, обезбедуваме извонредност во секоја шолја. Нашиот посветен тим е посветен на обезбедување исклучителни услуги, обезбедувајќи секоја посета да ве остава да се чувствувате ценети и задоволни. Уживајте во богатите, ароматични пијалоци прецизно изработени до совршенство, привлекувајќи ги вашите пупки за вкус со секоја голтка. Придружете ни се и откријте зошто остроумните ентузијасти за кафе го избираат Niki Boss за неспоредливо кафе искуство.",
+        "MESSUNGEN": "Сладолед",
+        "MESSUNGEN_DESCRIPTION": "Влезете во светот на замрзнати задоволства во Niki Boss, каде што секоја топка е прослава на природните вкусови. Рачно изработен грижливо со користење на најсвежите состојки од локалните дистрибутери, нашиот сладолед може да се пофали со преку 20 примамливи вкусови, секој доказ за нашата посветеност на квалитетот. Без разлика дали преферирате класици како ванила и чоколадо или авантуристички мешавини со овошје и јаткасти плодови, има нешто што може да ја задоволи секоја желба. Но, нашите понуди не застануваат тука. Со гордост нудиме продажба на големо и мало, обезбедувајќи го нашиот вкусен сладолед за бизниси и за поединци. И за да ја засладиме зделката, нудиме бесплатна достава, осигурувајќи дека вашите омилени вкусови се секогаш на дофат.",
+        "MONTAGE": "Колачи",
+        "MONTAGE_DESCRIPTION": "Добредојдовте во царството на сладост во Ники Бос, каде што секој залак е задоволство направено со грижа. Нашата декадентна палета на слатки е направена од најдобрите состојки добиени од локални дистрибутери, обезбедувајќи свежина и квалитет со секој залак. Со разновиден избор кој може да се пофали со преку 15 вкусови, од класични омилени до иновативни креации, има нешто да го искуша секое непце. Но, нашата посветеност на сладоста не завршува тука. Со гордост нудиме опции за продажба на големо и мало, дозволувајќи им на бизнисите и на поединците да уживаат во нашите вкусни задоволства. Плус, со нашата практична бесплатна услуга за испорака, уживањето во вашите омилени слатки никогаш не било полесно.",
+        "REPARATUR": "Пијалоци",
+        "REPARATUR_DESCRIPTION": "Од ароматични кафиња до освежителни чаеви, енергични смути до декадентни милкшејкови, секоја голтка е патување со чувства на вкус. Без разлика дали сакате утринско земање, пладневно освежување или вечерно уживање, нашите пијалоци се направени со прецизност и страст за да го задоволат секое непце. И со опции за купување на големо и мало, можете да уживате во вашите омилени пијалоци во секое време и каде било."
     },
     "OFFER": {
         "HEADER": "Offerta libera",
@@ -78,7 +78,7 @@
         "SENDEN": "Inviare"
     },
     "FOOTER": {
-        "GET_IN_TOUCH": "Mettiti in contatto",
+        "GET_IN_TOUCH": "Contact",
         "TALK_TO_US": ""
     },
     "IMPRESSUM": {
@@ -100,5 +100,5 @@
         "COOKIES_DESCRIPTION": "Per poter fornire il miglior servizio possibile nell'ambito della nostra offerta Internet, possono essere utilizzati i cookie. Si tratta di piccoli file di testo che vengono memorizzati nel browser Internet del visitatore. Servono a riconoscere il browser Internet, ma non a identificarti personalmente. Tutti i dati sono registrati in forma anonima e non contengono dati personali ai sensi dell'art. 4 n. 1 GDPR. In caso di domande sugli avvisi di cui sopra, è anche possibile inviare un'e-mail all'indirizzo e-mail riportato di seguito. Siamo felici di rispondere.",
         "OWNER": "Persona autorizzata a rappresentare"
     },
-    "COOKIES":"Questo sito web utilizza i cookie. Se continui a utilizzare il sito web, assumeremo il tuo consenso."
+    "COOKIES": "Questo sito web utilizza i cookie. Se continui a utilizzare il sito web, assumeremo il tuo consenso."
 }

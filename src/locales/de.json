@@ -1,21 +1,21 @@
 {
     "NAVBAR": {
-        "HOME": "Startseite",
-        "SERVICES": "Dienstleistungen",
+        "HOME": "Fillimi",
+        "SERVICES": "Shërbime",
         "CONTACT": "Kontakt",
         "OFFERTE": "Offerte"
     },
     "HOME": {
-        "BANNER_TITLE": "Verwandeln Sie Ihren Raum mit eleganten Jalousien und Fensterläden",
-        "BANNER_DESCRIPTION": "Bei Besi Storen sind wir auf die Bereitstellung hochwertiger Storen und Rollläden spezialisiert, um Ihre Wohn- oder Arbeitsbereiche in stilvolle und funktionale Umgebungen zu verwandeln.",
-        "LAMELLENSTOREN": "Lamellenstoren",
-        "LAMELLENSTOREN_DESCRIPTION": "Klassische Eleganz für Ihr Fenster",
-        "SONNENSTOREN": "Sonnenstoren",
-        "SONNENSTOREN_DESCRIPTION": "Genießen Sie Schatten und Komfort",
-        "ROLLLADEN_TITLE": "Rollladen",
-        "ROLLLADEN_DESCRIPTION": "Vielseitige und funktionale Fensterabdeckung Lösung",
-        "SONNENSTORENSTOFFE_TITLE": "Sonnenstorenstoffe",
-        "SONNENSTORENSTOFFE_DESCRIPTION": "Verleihen Sie Ihrem Zuhause einen Hauch von Eleganz und Komfort.",
+        "BANNER_TITLE": "Kafe, ëmbëlsira dhe akullore, dyqani juaj me një ndalesë për kënaqësi!",
+        "BANNER_DESCRIPTION": "Të specializuar në premium kafe, ëmbëlsira të parezistueshme dhe akullore artizanale, ne jemi destinacioni juaj i preferuar për t'i shndërruar momentet e përditshme në diçka të jashtëzakonshme.",
+        "LAMELLENSTOREN": "Kafe",
+        "LAMELLENSTOREN_DESCRIPTION": "E krijuar deri në perfeksion",
+        "SONNENSTOREN": "Akullore",
+        "SONNENSTOREN_DESCRIPTION": "Shumëllojshmëri e freskët në çdo kohë",
+        "ROLLLADEN_TITLE": "Ëmbëlsirat",
+        "ROLLLADEN_DESCRIPTION": "Kënaquni me konfeksione elegante",
+        "SONNENSTORENSTOFFE_TITLE": "Pije",
+        "SONNENSTORENSTOFFE_DESCRIPTION": "Pini dhe shijoni pije freskuese cilësore",
         "INSEKTENSCHUTZ_TITLE": "Insektenschutz",
         "INSEKTENSCHUTZ_DESCRIPTION": "Genießen Sie eine fehlerfreie Umgebung mit unseren hochwertigen Insektenschutznetzen",
         "PLISSEN_TITLE": "Stoff-Rollo und Plissee",
@@ -30,21 +30,21 @@
         "SEITENGLASS_DESCRIPTION": "Sie sind sowohl funktional als auch ästhetisch und lassen natürliches Licht in den Raum eindringen und bieten gleichzeitig Ausblicke auf die Umgebung",
         "MEHR": "Mehr"
     },
-    "PARTNERS": "Unsere Partner",
+    "PARTNERS": "Partnerët tanë",
     "CARDS": {
-        "DESCRIPTION": "Unsere Mission ist es, beste Qualität für Ihr Haus zu präsentieren",
-        "CARD_1_TITLE": "Beratung",
-        "CARD_1_DESCRIPTION": "Unterstützen Sie Ihre Entscheidungen mit fachkundiger Beratung.",
-        "CARD_2_TITLE": "Messungen",
-        "CARD_2_DESCRIPTION": "Genaue Messungen für präzise Ergebnisse.",
-        "CARD_3_TITLE": "Montage",
-        "CARD_3_DESCRIPTION": "Effiziente und professionelle Installationen für großartige Ergebnisse.",
-        "CARD_4_TITLE": "Reparatur",
-        "CARD_4_DESCRIPTION": "Zuverlässige und kompetente Reparaturdienste für Ihre Bedürfnisse."
+        "DESCRIPTION": "Misioni ynë është të paraqesim cilësinë më të mirë për ju",
+        "CARD_1_TITLE": "Atmosfera",
+        "CARD_1_DESCRIPTION": "Kafeja jonë ofron një atmosferë të ngrohtë dhe tërheqëse, duke e bërë atë vendin e përsosur për t'u çlodhur dhe çlodhur me pijen tuaj të preferuar.",
+        "CARD_2_TITLE": "Cilësia",
+        "CARD_2_DESCRIPTION": "Ne krenohemi që përdorim vetëm përbërësit më të mirë për të krijuar kafe dhe ëmbëlsira të shijshme që do t'ju pëlqejnë.",
+        "CARD_3_TITLE": "Shumëllojshmëri",
+        "CARD_3_DESCRIPTION": "Nga pijet e pasura me ekspres te pastat dekadente dhe akulloret freskuese, ne kemi diçka për të kënaqur çdo dëshirë.",
+        "CARD_4_TITLE": "Komuniteti",
+        "CARD_4_DESCRIPTION": "Në dyqanin tonë, ju gjithmonë do të përshëndeteni me një buzëqeshje dhe një pritje të ngrohtë, duke krijuar një ndjenjë përkatësie për të gjithë ata që e vizitojnë."
     },
     "MATERIALS": {
-        "HEADER": "Hochwertige Materialien",
-        "DESCRIPTION": "Bei Besi Storen sind wir bestrebt, für unsere Installationen und Reparaturen nur Materialien höchster Qualität zu verwenden. Wir arbeiten mit vertrauenswürdigen Herstellern zusammen, um langlebige Jalousien und Fensterläden zu beschaffen, die nicht nur die Ästhetik Ihres Raums verbessern, sondern auch über Jahre hinweg Funktionalität und Haltbarkeit bieten."
+        "HEADER": "Përjetoni thelbin e natyrës në çdo gllënjkë në strehën tonë të kafesë",
+        "DESCRIPTION": "Në kafenë tonë, ne krenohemi që gjejmë përbërësit më të mirë të brendshëm, natyralë për të krijuar çdo filxhan kafeje. Nga fasulet e zgjedhura me dorë tek qumështi dhe ëmbëlsuesit me burim vendas, çdo element është zgjedhur me kujdes për të siguruar freski dhe cilësi të pashoqe. Kënaquni me shijet e pasura dhe mirësinë e shëndetshme të birrave tona artizanale dhe shijoni ndryshimin që vjen nga përkushtimi për të përdorur më të mirën që na ofron natyra."
     },
     "PARALLAX": {
         "HEADER": "Lasst uns zusammenarbeiten",
@@ -52,16 +52,16 @@
         "BUTTON": "Kontaktiere Uns"
     },
     "SERVICES": {
-        "HEADER": "Unsere Dienstleistungen",
-        "DESCRIPTION": "Entdecken Sie unser umfassendes Leistungsangebot, das auf alle Ihre Bedürfnisse zugeschnitten ist",
-        "BERATUNG": "Beratung",
-        "BERATUNG_DESCRIPTION": "In unserem Unternehmen glauben wir daran, unseren Kunden die Möglichkeit zu geben, fundierte Entscheidungen zu treffen, wenn es um Sonnenschutzrollos geht. Unser Expertenteam ist bestrebt, eine umfassende, auf Ihre spezifischen Bedürfnisse zugeschnittene Beratung zu bieten. Ganz gleich, ob Sie Ihre Privatsphäre verbessern, das Sonnenlicht kontrollieren oder einen stilvollen Außenbereich schaffen möchten, wir führen Sie durch die verfügbaren Optionen und helfen Ihnen bei der Auswahl der perfekten Sonnenschutzlösung.",
-        "MESSUNGEN": "Messungen",
-        "MESSUNGEN_DESCRIPTION": "Bei Besi Storen nehmen wir präzise Messungen vor, um sicherzustellen, dass Ihre Sonnenschutzrollos perfekt passen. Wir besuchen Ihren Standort, beurteilen sorgfältig die Fenster oder Außenbereiche, in denen die Sonnenschutzrollos installiert werden sollen, und nehmen präzise Messungen vor, um eine individuelle Passform sicherzustellen.",
-        "MONTAGE": "Montage",
-        "MONTAGE_DESCRIPTION": "Bei der Montage von Sonnenschutzrollos legt unser Unternehmen Wert auf Professionalität und Präzision. Unser erfahrenes Installationsteam ist bestens gerüstet, um den gesamten Prozess reibungslos abzuwickeln. Sobald die Messungen vorgenommen wurden und die Sonnenschutzrollos fertig sind, werden sie von unseren erfahrenen Technikern sorgfältig installiert, um einen sicheren und einwandfreien Sitz zu gewährleisten.",
-        "REPARATUR": "Reparatur",
-        "REPARATUR_DESCRIPTION": "Wir bieten schnelle und zuverlässige Dienstleistungen, um die Langlebigkeit und optimale Leistung unserer Produkte zu gewährleisten. Ganz gleich, ob es sich um einen defekten Mechanismus, einen beschädigten Stoff oder einen anderen Reparaturbedarf handelt – wir sind bestrebt, die volle Funktionalität Ihrer Sonnenschutzrollos wiederherzustellen."
+        "HEADER": "Shërbimet tona",
+        "DESCRIPTION": "Mirë se vini në Niki Boss, ku tradita takon shijen në çdo filxhan dhe lugë. Me mbi 30 vjet shërbim të përkushtuar, ne i kemi kënaqur klientët tanë me kafen tonë, akulloren artizanale kremoze, ëmbëlsirat e këndshme dhe pijet freskuese. Nga fillimet tona modeste e deri më sot, ne vazhdojmë të mbajmë angazhimin tonë për cilësinë dhe kënaqësinë e klientit. Bashkohuni me ne dhe përjetoni shijet e përjetshme dhe mikpritjen e ngrohtë që na kanë bërë një pjesë të dashur të komunitetit për më shumë se tre dekada.",
+        "BERATUNG": "Kafe",
+        "BERATUNG_DESCRIPTION": "Vendoseni veten në një udhëtim me shije në Niki Boss. Duke marrë me krenari nga shpërndarësit më të mirë të kafesë në zonë, ne sigurojmë përsosmëri në çdo filxhan. Ekipi ynë i përkushtuar është i përkushtuar për të ofruar shërbime të jashtëzakonshme, duke siguruar që çdo vizitë t'ju lërë të ndiheni të vlerësuar dhe të kënaqur. Kënaquni me pijet e pasura, aromatike të krijuara me përpikëri deri në perfeksion, duke magjepsur shijet tuaja me çdo gllënjkë. Bashkohuni me ne dhe zbuloni pse të apasionuarit pas kafesë zgjedhin Niki Boss për një eksperiencë të pashembullt kafeje.",
+        "MESSUNGEN": "Akullore",
+        "MESSUNGEN_DESCRIPTION": "Hyni në një botë të kënaqësive të ngrira në Niki Boss, ku çdo lugë është një festë e shijeve natyrore. E punuar me dorë me kujdes duke përdorur përbërësit më të freskët nga shpërndarësit vendas, akullorja jonë krenohet me mbi 20 shije magjepsëse, secila një dëshmi e përkushtimit tonë ndaj cilësisë. Pavarësisht nëse preferoni klasikët si vanilja dhe çokollata ose përzierjet aventureske të mbushura me fruta dhe arra, ka diçka për të kënaqur çdo dëshirë. Por ofertat tona nuk mbarojnë këtu. Ne ofrojmë me krenari shitje me shumicë dhe pakicë, duke ofruar akulloren tonë të shijshme për bizneset dhe individët. Dhe për të ëmbëlsuar marrëveshjen, ne ofrojmë dërgesë falas, duke siguruar që shijet tuaja të preferuara të jenë gjithmonë të arritshme.",
+        "MONTAGE": "Ëmbëlsira",
+        "MONTAGE_DESCRIPTION": "Mirë se vini në një mbretëri ëmbëlsie në Niki Boss, ku çdo kafshatë është një kënaqësi e krijuar me kujdes. Gama jonë dekadente e ëmbëlsirave është bërë me përbërësit më të mirë me burim nga shpërndarësit vendas, duke siguruar freski dhe cilësi me çdo kafshatë. Me një përzgjedhje të larmishme me mbi 15 shije, nga të preferuarat klasike te krijimet inovative, ka diçka për të tunduar çdo shije. Por angazhimi ynë për ëmbëlsinë nuk mbaron këtu. Ne ofrojmë me krenari opsione me shumicë dhe pakicë, duke i lejuar bizneset dhe individët të shijojnë ëmbëlsirat tona të këndshme. Plus, me shërbimin tonë të përshtatshëm të dërgesës falas, kënaqja me ëmbëlsirat tuaja të preferuara nuk ka qenë kurrë më e lehtë.",
+        "REPARATUR": "Pije",
+        "REPARATUR_DESCRIPTION": "Nga kafetë aromatike te çajrat freskues, smoothie-t energjikë deri te milkshake-t dekadentë, çdo gllënjkë është një udhëtim i ndjesive shije. Pavarësisht nëse dëshironi një pije në mëngjes, një pije freskuese në mesditë ose një ëmbëlsirë në mbrëmje, pijet tona janë krijuar me saktësi dhe pasion për të kënaqur çdo shije. Dhe me opsionet për blerjet me shumicë dhe pakicë, ju mund të shijoni pijet tuaja të preferuara në çdo kohë, kudo."
     },
     "OFFER": {
         "HEADER": "Kostenlose Offerte",
@@ -78,18 +78,18 @@
         "SENDEN": "Senden"
     },
     "FOOTER": {
-        "GET_IN_TOUCH": "In Kontakt kommen",
+        "GET_IN_TOUCH": "Contact",
         "TALK_TO_US": ""
     },
-    "IMPRESSUM":{
-        "TITLE":"Impressum",
-        "KONTAKTADRESS":"Kontaktadresse",
-        "PERSON":"Vertretungsberechtigte Person",
-        "INHABER":"Inhaber",
-        "REGISTRIE":"Handelsregistereintrag",
-        "RECHTSFORM":"Rechtsform",
-        "FIRMANAME":"Eingetragener Firmenname",
-        "HANDELSREGISTER":"Handelsregister"
+    "IMPRESSUM": {
+        "TITLE": "Impressum",
+        "KONTAKTADRESS": "Kontaktadresse",
+        "PERSON": "Vertretungsberechtigte Person",
+        "INHABER": "Inhaber",
+        "REGISTRIE": "Handelsregistereintrag",
+        "RECHTSFORM": "Rechtsform",
+        "FIRMANAME": "Eingetragener Firmenname",
+        "HANDELSREGISTER": "Handelsregister"
     },
-    "COOKIES":"Diese Website benutzt Cookies. Wenn du die Website weiter nutzt, gehen wir von deinem Einverständnis aus."
+    "COOKIES": "Diese Website benutzt Cookies. Wenn du die Website weiter nutzt, gehen wir von deinem Einverständnis aus."
 }

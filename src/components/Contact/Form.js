@@ -24,10 +24,23 @@ function Form() {
     }
     return (
         <>
-            <div className='mr-10'>
-                <h1 className='text-6xl font-semibold mb-5' data-aos='fade-right'>{t('FORM.HEADER')}</h1>
-                <div className='grid sm:grid-cols-1 md:grid-cols-2' data-aos='fade-up'>
-                    <div className='md:mr-10'>
+            <div className='mr-10 self-center'>
+                <h1 className='text-6xl font-semibold mb-5' data-aos='fade-right'>
+                    {/* {t('FORM.HEADER')} */}
+                    Contact
+                </h1>
+                <div className='mt-4' data-aos='fade-up'>
+                    <h1 className='text-2xl font-medium ' data-aos='fade-right'>
+                        Osman Ramadani
+                    </h1>
+                    <h1 className='text-1xl font-medium ' data-aos='fade-right'>
+                        00389 71 598 139
+                    </h1>
+                    <h1 className='text-1xl font-medium mb-5' data-aos='fade-right'>
+                        Kamenjane, Tetovo
+                    </h1>
+
+                    {/* <div className='md:mr-10'>
                         <Input label={t('FORM.NAME')} type='text' placeholder='John' name="name" changeHandler={onChangeHandler} />
                     </div>
                     <div>
@@ -39,13 +52,13 @@ function Form() {
 
                     <div>
                         <Input label={t('FORM.BETREFF')} type='text' placeholder='Storen defekt' name="subject" changeHandler={onChangeHandler} />
-                    </div>
+                    </div> */}
                 </div>
-                <label htmlFor='textarea' className="block mb-2 text-md font-light text-gray-900 ">{t('FORM.NACHRICHT')}</label>
+                {/* <label htmlFor='textarea' className="block mb-2 text-md font-light text-gray-900 ">{t('FORM.NACHRICHT')}</label>
                 <textarea id="message" rows="4" data-aos='fade-up' className="block p-2.5 w-full text-sm outline-none text-gray-900 bg-[#fafafa]  border border-[#fafafa] mb-5" placeholder={t('FORM.NACHRICHT')} name='message' onChange={onChangeHandler}></textarea>
                 <Button type={'button'} title={t('FORM.SENDEN')} clickHandler={() => {
                     window.open(`mailto:info@besi-storen.ch?subject=${formData.subject}&body=${formData.message}    von ${formData.name} ${formData.lastname}`)
-                }} />
+                }} /> */}
             </div>
         </>
     )
