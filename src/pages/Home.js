@@ -35,9 +35,9 @@ function Home() {
     <>
       <Helmet>
         <title>Niki Boss</title>
-        <meta name='description' content='Kompetente Beratung, präzise Messungen, reibungslose Installation und zuverlässige Reparaturen. Entdecken Sie mit Besi Storen die perfekten Jalousien und Rollläden.' />
+        <meta name='description' content='Cilesi dhe kualitet ne nje vend.' />
         <link rel='canonical' href='/' />
-        <meta name="keywords" content="Besi Storen, besi storen wohlen, storen-wohlen, storen wohlen, storen beratung, storen messungen, storen montage, storen reparatur, lamellenstoren, sonnenstoren, rollladen,sonnenstorenstoffe, insektenschutz, stoff-rollo und plissee, rolllamellenstoren, seitenglass,lamellendach" />
+        <meta name="keywords" content="Niki Boss, kafe, akullore, sladoled, kamjan " />
       </Helmet>
       <CookieConsent buttonText="OK" buttonStyle={{ backgroundColor: "#229bce", fontSize: "13px" }}>{t('COOKIES')}</CookieConsent>
       <MainBanner title={t('HOME.BANNER_TITLE')} description={t('HOME.BANNER_DESCRIPTION')} display="flex" fontSize='text-3xl' />
